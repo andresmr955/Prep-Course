@@ -53,7 +53,7 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
     display: fixed;
     justify-content: space-between; /* INVESTIGAR */
     align-items: center;
-    flex-direction: row-reverse ;
+    flex-direction: row-reverse ;/**/
 }
 
 
